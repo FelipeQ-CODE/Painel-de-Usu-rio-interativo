@@ -7,6 +7,14 @@ body {
   font-family: sans-serif;
   background: linear-gradient(cyan, #243b55);
 }
+.fundo{
+  margin:0;
+  padding:0;
+  text-align: center;
+  border:2px solid black;
+ 
+  
+}
 
 .login-box {
   position: absolute;
